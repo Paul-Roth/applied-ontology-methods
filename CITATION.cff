@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "Applied Ontology Methods™"
+message: "If you use this work, please cite it as described below."
+type: software
+version: "1.0.0"
+abstract: >
+  Applied Ontology Methods™ is the only body of work that operates at the
+  intersection of Applied, Ontological, and Method to produce measurable,
+  observable, and permanent transformation in human performance. Developed
+  by Paul Roth over more than two decades, it comprises six complete Methods —
+  each with its own Tool, Training, and Technology of Transformation — and
+  is delivered through an AI-driven pre-print modular learning architecture
+  designed to scale to millions independent of any practitioner.
+authors:
+  - family-names: Roth
+    given-names: Paul
+repository-code: "https://github.com/Paul-Roth/applied-ontology-methods"
+url: "https://go.rothmethods.com/home"
+keywords:
+  - applied-ontology-methods
+  - blindspot-discovery-method
+  - advisory-selling-method
+  - game-generation-method
+  - time-navigation-method
+  - accountability-management-method
+  - brand-management-method
+  - human-nature-human-spirit
+  - maximizing-performance
+  - ontological-performance
+  - the-tool
+  - pre-print-learning
+  - performance-transformation
+  - blindspot-architecture
+  - core-values-architecture
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Roth
+      given-names: Paul
+  title: "Applied Ontology Methods™"
+  year: 2025
+  version: "1.0.0"
+  url: "https://github.com/Paul-Roth/applied-ontology-methods"
+year: 2025
+license: "SEE LICENSE IN license.md"
+```
